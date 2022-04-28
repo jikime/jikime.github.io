@@ -1,0 +1,25 @@
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+    * GraphQL, gRPC, EventSourcing, Golang, Protobuf
+    * PHP(CodeIgniter, Laravel), Python
+    * Java, JSP
+    * ShellScript
+    * IntelliJ, PHPStorm, VSCode
+- layout: left
+  name: DevOps
+  description: | # this will include new lines to allow paragraphs
+    * MySQL, MariaDB, MongoDB, Oracle 
+    * Redis, ElasticSearch, Kafka, Cassandra, Scylla
+    * Apache, Nginx, Tomcat
+    * Linux Centos
+    * Docker & Swarm, Git, GitHub CI/CD
+    * Grafana, Prometheus
+- layout: left
+  name: Frontend
+  description: | # this will include new lines to allow paragraphs
+    * Javascript, Typescript
+    * Node, Webpack
+    * JQuery, React, AngularJS
+    * HTML, CSS, SCSS
+    * Adobe XD, Figma

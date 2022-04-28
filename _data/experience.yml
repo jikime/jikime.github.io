@@ -1,0 +1,96 @@
+- layout: left
+  company: 한비로
+  job_title: Full Stack 개발자 (리더)
+  dates: 2021.02 ~ 현재
+  quote: >
+    Enterprise CRM
+  skill: Typescript, React, Webpack, SCSS, Go, GraphQL, gRPC, EventSourcing, MongoDB, Kafka, ElasticSearch, Redis, Docker Swarm
+  description: | # this will include new lines to allow paragraphs
+    * 사용자에 의해 수행된 모든 이벤트를 저장 및 백업을 위한 EventSourcing 개발
+    * 성능, 확장성 및 응답성을 향상시켜 복잡한 도메인의 업무를 간소화
+    * 클라이언트에서 서버로부터 데이타를 효율적으로 가져오도록 GraphQL 서버(MSA) 개발 
+    * 대기 시간이 짧고 처리량이 높은 통신을 위해 gRPC 서버(MSA) 개발
+    * 프론트엔드 및 백엔드 구현을 위한 구조 설계 및 기술 교육
+    * 서비스를 신속하게 구축, 테스트 및 배포할 수 있도록 Container 기반 개발 지원 
+    * 메신저를 이용한 베트남 개발자와 업무 협업 리딩
+    * GitHub Action을 이용한 CI/CD 지원
+    * 최신의 트렌드에 맞는 개발 기술을 사내에 전파
+- layout: left
+  company: 한비로
+  link: https://hanbiro.com/software/hanbiro-hr-summary.html
+  job_title: 기획자 및 백엔드 개발자 (리더)
+  dates: 2018.04 ~ 2018.12
+  quote: >
+    주 52시간 근로제를 위한 HR 시스템
+  skill: PHP + Laravel, MariaDB
+  description: | # this will include new lines to allow paragraphs
+    * 근태 및 휴가관리 전체 기획
+    * 메신저를 이용한 베트남 개발자와 업무 협업 리딩
+    * 백엔드 구현을 위한 Core 및 DB Schema 설계
+    * 한전KPS 모바일 출퇴근 API 개발 및 기술 지원
+    * 매장 관리 API 개발 및 기술 지원
+- layout: left
+  company: 한비로
+  link: https://hanbiro.com/software/about-crm.html
+  job_title: 프론트/백엔드 개발자 (리더)
+  dates: 2014.09 ~ 2015.09
+  quote: >
+    기업의 효율적인 고객관리를 위한 CRM
+  skill: AngularJS 1.x, jQuery, PHP + CodeIgniter 2.x, MariaDB, Redis, ElasticSearch, Cassandra
+  description: | # this will include new lines to allow paragraphs
+    * 빅데이타 검색 기능 구현
+    * WebSocket을 이용한 Push Alarm 기능 구현
+    * 페이지레이아웃 편집기 공동 개발
+    * 백엔드 구현을 위한 Core 및 DB Schema 설계
+- layout: left
+  company: 한비로
+  link: https://hanbiro.com/software/outline-table.html
+  job_title: Full Stack 개발자 (리더)
+  dates: 2007.04 ~ 2008.07
+  quote: >
+    한국, 미국, 일본, 중국, 베트남 등 약 20만 이상 유저가 사용중인 그룹웨어
+  skill: AngularJS 1.x, jQuery, PHP + CodeIgniter 2.x, MariaDB, Redis, ElasticSearch, SQLite
+  description: | # this will include new lines to allow paragraphs
+    * 게시판, 회람판, Todo, 프로젝트, 협업관리, 근태관리, 주소록, 일정등 주도 개발 
+    * 제품에 대한 기술 컨설팅
+    * 기업의 요구에 맞는 커스터마이징 구현
+    * SaaS(Software as a Service) 기반 서비스를 기업에 제공하여 꾸준한 매출 증대
+    * 회사내 벤처 기업연구소 설립 기반 마련
+- layout: left
+  company: 한비로
+  link: https://www.hanbiro.com/
+  job_title: Front/Backend 개발자
+  dates: 2003.06 ~ 2004.01
+  quote: >
+    서버관리 고객에게 웹분석기를 부가서비스 제공
+  skill: HTML, CSS, Javascript, PHP, MySQL
+  description: | # this will include new lines to allow paragraphs
+     * 단독으로 프로젝트 수행
+     * 사용자의 활동을 스크립트 기반으로 데이타를 수집하는 코드 구현
+     * 수집된 데이타를 각종 통계 및 Chart 구현
+     * 웹통계를 원하는 기업에게 제공하여 서비스의 품질과 신뢰성을 제공하여 매출 기여
+- layout: left
+  company: 한비로
+  link: https://hanbiro.com/management/management-outline.html
+  job_title: 서버 관리자
+  dates: 2003.02 ~ 2007.03
+  quote: >
+    4,000대 서버를 관리하고 있는 관리운영 서비스
+  skill: Shell Script, PHP, Python, Apache, Tomcat, MariaDB, MySQL, Oracle, Linux System, Network, DNS
+  description: | # this will include new lines to allow paragraphs
+     * 100대이상의 서버를 관리 운영
+     * 서버관리에 필요한 각종 쉘스크립트 개발
+     * Apache, Tomcat 웹서버 운영
+     * MySQL, MariaDB, Oracle DB서버 운영
+     * 로드밸런싱, 클러스터링, 데이타이중화 운영 
+     * IDC 인프라 환경에서의 관리 운영
+     * Oracle 자동 백업 스크립트 구현
+- layout: left
+  company: 정보와미래
+  job_title: 웹 개발자
+  dates: 2001.02 ~ 2002.11
+  quote: >
+    Lycos Korea 소호몰
+  skill: JSP, Java & Oracle
+  description: | # this will include new lines to allow paragraphs
+     * 회원관리, 주문 및 매출 통계 페이지 개발 / 지원
