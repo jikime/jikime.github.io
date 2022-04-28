@@ -22,7 +22,7 @@
   dates: 2018.04 ~ 2018.12
   quote: >
     주 52시간 근로제를 위한 HR 시스템
-  skill: PHP + Laravel, MariaDB
+  skill: PHP + Laravel, MariaDB, Adobe XD
   description: | # this will include new lines to allow paragraphs
     * 근태 및 휴가관리 전체 기획
     * 메신저를 이용한 베트남 개발자와 업무 협업 리딩
@@ -91,6 +91,6 @@
   dates: 2001.02 ~ 2002.11
   quote: >
     Lycos Korea 소호몰
-  skill: JSP, Java & Oracle
+  skill: JSP, Java, Oracle
   description: | # this will include new lines to allow paragraphs
      * 회원관리, 주문 및 매출 통계 페이지 개발 / 지원
